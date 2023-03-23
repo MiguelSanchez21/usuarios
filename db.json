@@ -11,12 +11,12 @@
   "usuarios":[
   {
     "id": 1,
-    "nombre": "Carlos Alberto Moreno Alvarez"
+    "nombre": "Carlos Alberto Moreno Alvarez",
     "telefono": "8331234567"
   },
   {
     "id": 2,
-    "titulo": "Miguel Angel Sánchez Pérez"
+    "titulo": "Miguel Angel Sánchez Pérez",
     "telefono": "8331748639"
   }
   ]
